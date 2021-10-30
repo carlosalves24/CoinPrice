@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0cfc6954-3196-4841-a096-bf322b082958" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/Page_2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Page_2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REAME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/REAME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,8 +14,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="REAME.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/REAME.txt">
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret lean-forward="true" />
@@ -40,7 +40,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/REAME.txt" />
+        <option value="$PROJECT_DIR$/README.txt" />
         <option value="$PROJECT_DIR$/Page_2.php" />
       </list>
     </option>
@@ -155,7 +155,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/REAME.txt">
+    <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
